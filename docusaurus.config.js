@@ -11,8 +11,8 @@ const config = {
 //  url: 'https://your-docusaurus-test-site.com',
     url: 'https://docs.andhiis.cool/app',
 
- baseUrl: '/',
- //baseUrl: '/app/',
+ //baseUrl: '/',
+ baseUrl: '/app/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
